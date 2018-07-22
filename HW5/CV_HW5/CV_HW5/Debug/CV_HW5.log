@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  CV_HW5.cpp
+c:\users\lianqy\desktop\cv_hw5\cv_hw5\cv_hw5.cpp(5): error C2065: “cout”: 未声明的标识符
+c:\users\lianqy\desktop\cv_hw5\cv_hw5\cv_hw5.cpp(5): error C2065: “endl”: 未声明的标识符

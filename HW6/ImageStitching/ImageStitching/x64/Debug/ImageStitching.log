@@ -1,0 +1,31 @@
+﻿  ImageStitching.cpp
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(26): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(89): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(139): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(140): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(147): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(157): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(158): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(160): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(161): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(172): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(173): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(180): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(191): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(192): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(194): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(195): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(204): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\97680\desktop\imagestitching\imagestitching\utils.h(212): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\imagestitching.cpp(34): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\imagestitching.cpp(35): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(14407): warning C4319: “~”: 将“unsigned long”扩展到更大的“double”时为零
+  c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(14406): note: 编译类 模板 成员函数“double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)”时
+  c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(14138): note: 参见对正在编译的函数 模板 实例化“double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)”的引用
+  c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(16160): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<float>::_cimg_math_parser”的引用
+  c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(16158): note: 编译类 模板 成员函数“double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const”时
+  c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(50762): note: 参见对正在编译的函数 模板 实例化“double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const”的引用
+  c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(27785): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<float>”的引用
+  c:\users\97680\desktop\imagestitching\imagestitching\cimg.h(49813): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<char>”的引用
+  ImageStitching.vcxproj -> C:\Users\97680\Desktop\ImageStitching\x64\Debug\ImageStitching.exe
+  ImageStitching.vcxproj -> C:\Users\97680\Desktop\ImageStitching\x64\Debug\ImageStitching.pdb (Full PDB)

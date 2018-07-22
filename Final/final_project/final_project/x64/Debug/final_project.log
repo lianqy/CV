@@ -1,0 +1,43 @@
+﻿  main.cpp
+c:\users\lianqy\desktop\final_project\final_project\tool.h(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(66): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(68): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(76): warning C4305: “+=”: 从“const double”到“float”截断
+c:\users\lianqy\desktop\final_project\final_project\tool.h(77): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(308): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lianqy\desktop\final_project\final_project\tool.h(310): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lianqy\desktop\final_project\final_project\tool.h(313): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(319): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lianqy\desktop\final_project\final_project\tool.h(322): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(376): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(526): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(527): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(528): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(529): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(530): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(531): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(532): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(533): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(537): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(538): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(539): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(540): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(547): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(548): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\tool.h(549): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\main.cpp(22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\main.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lianqy\desktop\final_project\final_project\main.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lianqy\desktop\final_project\final_project\main.cpp(123): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\main.cpp(134): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lianqy\desktop\final_project\final_project\cimg.h(14407): warning C4319: “~”: 将“unsigned long”扩展到更大的“double”时为零
+  c:\users\lianqy\desktop\final_project\final_project\cimg.h(14406): note: 编译类 模板 成员函数“double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)”时
+  c:\users\lianqy\desktop\final_project\final_project\cimg.h(14138): note: 参见对正在编译的函数 模板 实例化“double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)”的引用
+  c:\users\lianqy\desktop\final_project\final_project\cimg.h(16160): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<float>::_cimg_math_parser”的引用
+  c:\users\lianqy\desktop\final_project\final_project\cimg.h(16158): note: 编译类 模板 成员函数“double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const”时
+  c:\users\lianqy\desktop\final_project\final_project\cimg.h(50762): note: 参见对正在编译的函数 模板 实例化“double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const”的引用
+  c:\users\lianqy\desktop\final_project\final_project\cimg.h(27785): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<float>”的引用
+  c:\users\lianqy\desktop\final_project\final_project\cimg.h(49813): note: 参见对正在编译的类 模板 实例化“cimg_library::CImg<char>”的引用
+  final_project.vcxproj -> C:\Users\Lianqy\Desktop\final_project\x64\Debug\final_project.exe
+  final_project.vcxproj -> C:\Users\Lianqy\Desktop\final_project\x64\Debug\final_project.pdb (Partial PDB)

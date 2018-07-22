@@ -1,0 +1,10 @@
+﻿  CV_HW5.cpp
+  otsu.cpp
+otsu.cpp(28): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  正在生成代码
+  6 of 705 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CV_HW5.vcxproj -> C:\Users\Lianqy\Desktop\CV_HW5\Release\CV_HW5.exe
+  CV_HW5.vcxproj -> C:\Users\Lianqy\Desktop\CV_HW5\Release\CV_HW5.pdb (Full PDB)

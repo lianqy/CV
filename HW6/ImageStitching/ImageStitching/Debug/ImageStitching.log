@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ImageStitching.cpp
+ImageStitching.obj : error LNK2019: 无法解析的外部符号 __imp__vl_get_printf_func，该符号在函数 _main 中被引用
+C:\Users\Lianqy\Desktop\ImageStitching\ImageStitching\vlfeat\win64\vl.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Lianqy\Desktop\ImageStitching\Debug\ImageStitching.exe : fatal error LNK1120: 1 个无法解析的外部命令
